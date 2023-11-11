@@ -27,7 +27,7 @@ from matplotlib.colors import ListedColormap, BoundaryNorm
 from datetime import datetime, timedelta
 
 # 測試gitpush和pull
-
+# sdadwas
 def File_dir(path_dir): # 本程式碼主要運作於可將資料夾內的檔案全部讀取並使用
     file_paths = [] # 儲存的路徑
     for root, dirs, files in os.walk(path_dir): # os.walk返回出來的值有三個
